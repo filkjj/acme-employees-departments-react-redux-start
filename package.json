@@ -15,6 +15,7 @@
     "express": "^4.17.1",
     "faker": "^4.1.0",
     "pg": "^8.3.2",
+    "redux-logger": "^3.0.6",
     "sequelize": "^6.3.4"
   },
   "devDependencies": {
@@ -25,6 +26,8 @@
     "nodemon": "^2.0.4",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
+    "react-redux": "^7.2.1",
+    "redux": "^4.0.5",
     "webpack": "^4.44.1",
     "webpack-cli": "^3.3.12"
   }
